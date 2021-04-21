@@ -1,0 +1,15 @@
+left=image/tank/play1/player1_left.png
+up=image/tank/play1/player1_up.png
+right=image/tank/play1/player1_right.png
+down=image/tank/play1/player1_down.png
+bot_left=image/tank/bot/bot_left.png
+bot_up=image/tank/bot/bot_up.png
+bot_right=image/tank/bot/bot_right.png
+bot_down=image/tank/bot/bot_down.png
+boss_left=image/tank/boss/left.png
+boss_up=image/tank/boss/up.png
+boss_right=image/tank/boss/right.png
+boss_down=image/tank/boss/down.png
+boom=image/boom/boom.png
+base=image/wall/base.png
+break_base=image/wall/break_base.png
